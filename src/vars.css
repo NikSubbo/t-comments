@@ -1,0 +1,11 @@
+:root {
+  --min-indent: 5px;
+  --half-indent: 10px;
+  --main-indent: 20px;
+  --double-indent: 40px;
+
+  --grey-color: #828282;
+  --platinum-color: #EAE6E5;
+  --black-color: #000000;
+  --red-color: #F8333C;
+}

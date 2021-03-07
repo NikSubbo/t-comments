@@ -1,0 +1,19 @@
+.comment {
+  font-size: 14px;
+  margin-bottom: var(--main-indent);
+  color: var(--black-color);
+  background-color: var(--platinum-color);
+  padding: var(--half-indent);
+  border-radius: 8px;
+}
+.subComment {
+  padding-left: var(--double-indent);
+}
+.highlighted {
+  color: var(--red-color);
+}
+.author {
+  font-size: 12px;
+  color: var(--grey-color);
+  margin-bottom: var(--min-indent);
+}
